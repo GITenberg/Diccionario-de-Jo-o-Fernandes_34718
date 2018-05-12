@@ -1,0 +1,31 @@
+_repo: Diccionario-de-Jo-o-Fernandes_34718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Amorim, Francisco Gomes de
+    aliases:
+    - De Amorim, Francisco Gomes
+    - Gomes de Amorim, Francisco
+    birthdate: 1827
+    deathdate: 1891
+    gutenberg_agent_id: '37188'
+    url: http://www.gutenberg.org/2009/agents/37188
+description: ''
+gutenberg_issued: '2010-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34718'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese language -- Slang -- Dictionaries'
+- !lcc 'PC'
+- !lcsh 'Portuguese language -- Dictionaries'
+title: "Diccionario de João Fernandes\r\nLições de lingua portugueza pelos processos\
+  \ novos ao alcance de todas as classes de Portugal e Brazil"
+url: http://www.gutenberg.org/ebooks/34718
